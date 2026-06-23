@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://100.78.220.42:3002/sitemap.xml
