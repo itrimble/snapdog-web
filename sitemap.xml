@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>http://100.78.220.42:3002/</loc><lastmod>2026-05-11</lastmod></url>
-  <url><loc>http://100.78.220.42:3002/features.html</loc><lastmod>2026-05-11</lastmod></url>
-  <url><loc>http://100.78.220.42:3002/pricing.html</loc><lastmod>2026-05-11</lastmod></url>
-  <url><loc>http://100.78.220.42:3002/privacy.html</loc><lastmod>2026-05-11</lastmod></url>
-  <url><loc>http://100.78.220.42:3002/changelog.html</loc><lastmod>2026-05-11</lastmod></url>
+  <url><loc>https://itrimble.github.io/snapdog-web/</loc><lastmod>2026-07-07</lastmod></url>
+  <url><loc>https://itrimble.github.io/snapdog-web/features.html</loc><lastmod>2026-07-07</lastmod></url>
+  <url><loc>https://itrimble.github.io/snapdog-web/pricing.html</loc><lastmod>2026-07-07</lastmod></url>
+  <url><loc>https://itrimble.github.io/snapdog-web/changelog.html</loc><lastmod>2026-07-07</lastmod></url>
+  <url><loc>https://itrimble.github.io/snapdog-web/privacy.html</loc><lastmod>2026-07-07</lastmod></url>
 </urlset>
